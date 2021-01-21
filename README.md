@@ -1,8 +1,6 @@
 # Reservation-App
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://img.shields.io/badge/license-MIT-brightgreen)
-
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/37df8ab6907f4827b604fe89b14c9f58)](https://www.codacy.com/gh/jdavidrice/Reservation-App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jdavidrice/Reservation-App&amp;utm_campaign=Badge_Grade)
+[![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen)](https://img.shields.io/badge/license-MIT-brightgreen) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/37df8ab6907f4827b604fe89b14c9f58)](https://www.codacy.com/gh/jdavidrice/Reservation-App/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jdavidrice/Reservation-App&amp;utm_campaign=Badge_Grade)
 
 ## Description 
 
@@ -27,10 +25,7 @@ This Reservation-App allows users to place a reservation at a fictional "Hot Res
 ```
 npm i inquirer
 ```
-*   [Return to Top](#Description)
-
 ## Usage 
-
 
 *   [Return to Top](#Description)
 
